@@ -74,6 +74,83 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "Wc5HODFWf",
+      "uuid": "55de44b9-8496-4730-bc65-b96e07642c81",
+      "firstName": "maria",
+      "lastName": "santos",
+      "username": "mariasantos",
+      "password": "$2a$10$KJahm5fiHrMs2GZDmjSJUOAe/WLZD004ekLAZ4HNHCvr3pAUzAQgy",
+      "balance": 0,
+      "createdAt": "2025-04-12T07:36:38.386Z",
+      "modifiedAt": "2025-04-12T07:36:38.386Z"
+    },
+    {
+      "id": "Trm8zDlIW",
+      "uuid": "ece6d219-7136-49c3-af5e-53d73a693a6d",
+      "firstName": "Maria",
+      "lastName": "Silva",
+      "username": "MariaSilva",
+      "password": "$2a$10$vBvT/u.kLQksombo0i83tOOKMwyF6ba5GpqIzvTsBpvIabLqYzNfm",
+      "balance": 0,
+      "createdAt": "2025-04-12T07:54:13.044Z",
+      "modifiedAt": "2025-04-12T07:54:13.044Z"
+    },
+    {
+      "id": "SJ0fEy5Mj",
+      "uuid": "50a28ba9-82da-4c2d-8e34-8b90a5b1649a",
+      "firstName": "Maria",
+      "lastName": "Silva",
+      "username": "MariaSilva",
+      "password": "$2a$10$ByzcL0Q/GIjKlWNK3mJAoeRDNH8gQP34xNr057QYwLQdzG8c3p976",
+      "balance": 0,
+      "createdAt": "2025-04-12T07:56:26.288Z",
+      "modifiedAt": "2025-04-12T07:56:26.288Z"
+    },
+    {
+      "id": "RTr9W99G7",
+      "uuid": "8d0b1728-2edf-4576-8f50-8c7e35cbab98",
+      "firstName": "Maria",
+      "lastName": "Silva",
+      "username": "MariaSilva",
+      "password": "$2a$10$h6p4izPNsIiDAF3MovaA7O2iN5KgwGyTLPMjDOsiz9AehZQJnjIQS",
+      "balance": 0,
+      "createdAt": "2025-04-12T07:57:38.408Z",
+      "modifiedAt": "2025-04-12T07:57:38.408Z"
+    },
+    {
+      "id": "02q54yP9D",
+      "uuid": "a89c2fb0-cca5-40fb-9f38-740302fb1f4c",
+      "firstName": "Maria",
+      "lastName": "s",
+      "username": "maria",
+      "password": "$2a$10$/V3AuKDViMENblpT8QlM6uWon1rp4sD37.1RfT3NB/3xVDIptEdLK",
+      "balance": 0,
+      "createdAt": "2025-04-12T08:02:27.273Z",
+      "modifiedAt": "2025-04-12T08:02:27.273Z"
+    },
+    {
+      "id": "9CmTU1SV6",
+      "uuid": "04e6013a-238a-4e5f-bb7e-fa95dcef3b6e",
+      "firstName": "k",
+      "lastName": "a",
+      "username": "a",
+      "password": "$2a$10$lZIipxSovqFirDdQ6UBhteKorGD4t4ByGo0w/BvPQO2JZdr7l3uUu",
+      "balance": 0,
+      "createdAt": "2025-04-12T08:03:30.413Z",
+      "modifiedAt": "2025-04-12T08:03:30.413Z"
+    },
+    {
+      "id": "2F_ZrlFZJ",
+      "uuid": "76214ee4-1458-4b08-9b33-49f1f58e1762",
+      "firstName": "cadea mesnsagem",
+      "lastName": "jhj",
+      "username": "hj",
+      "password": "$2a$10$TNO.SiBC4waOmkNR9YvZMOR7p1v2Xpwi7s/FH6d4q.YcsvS3RC0XG",
+      "balance": 0,
+      "createdAt": "2025-04-12T08:12:35.827Z",
+      "modifiedAt": "2025-04-12T08:12:35.827Z"
     }
   ],
   "contacts": [
@@ -253,6 +330,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "SJxYBcAXK",
+      "uuid": "7feee762-5789-4716-9e69-0d6323a70bae",
+      "userId": "Wc5HODFWf",
+      "bankName": "Iitau",
+      "accountNumber": "21441122141",
+      "routingNumber": "452122145",
+      "isDeleted": false,
+      "createdAt": "2025-04-12T07:48:38.050Z",
+      "modifiedAt": "2025-04-12T07:48:38.050Z"
     }
   ],
   "transactions": [
